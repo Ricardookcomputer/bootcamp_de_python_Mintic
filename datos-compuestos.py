@@ -25,7 +25,7 @@ diccionario={
     "nombre": "Ricardo",
     "apellido" :"maldonado",
     "estatura": 1.80,
-    "esta feliz":True,
+    "esta feliz":True
 }
 print(diccionario["esta feliz"])
 print(diccionario["nombre"])
